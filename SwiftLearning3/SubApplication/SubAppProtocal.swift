@@ -1,0 +1,3 @@
+protocol SubAppProtocol {
+    func run()
+}
